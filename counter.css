@@ -1,0 +1,46 @@
+body{
+    background-color: powderblue;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+h1{
+    color:rgb(23, 22, 22);
+    text-transform: capitalize;
+    font-size: 40px;
+}
+#counter{
+    display: flex;
+color: rgb(234, 9, 9);
+justify-content: center;
+font-size: 50px;
+}
+#btn1{
+    background-color: rgb(13, 211, 13);
+    border-radius: 70px;
+    font-size: larger;
+    cursor: pointer;
+    text-transform: capitalize;
+border: none;
+border-bottom: 4px solid red;
+border-top: 4px solid rgb(82, 18, 211);
+}
+#btn2{
+    background-color: rgb(13, 211, 13);
+    border-radius: 70px;
+    font-size: larger;
+    cursor: pointer;
+    text-transform: capitalize;
+    border: none;
+    border-bottom: 4px solid red;
+border-top: 4px solid rgb(82, 18, 211);
+}
+#btn3{
+    background-color: rgb(13, 211, 13);
+    border-radius: 70px;
+    font-size: larger;
+    cursor: pointer;
+    text-transform: capitalize;
+    border: none;
+    border-bottom: 4px solid red;
+border-top: 4px solid rgb(82, 18, 211);}
